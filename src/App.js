@@ -1,12 +1,20 @@
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import './App.css';
-import Header from './Components/Header';
+import Registration from './Pages/Registration';
+import Profile from "./Pages/Profile";
 
 function App() {
   return (
-    <div className="App">
-      Any Page
-      <Header />
-    </div>
+    <>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Registration />} />
+        <Route path="/profile" element={<Profile />} />
+        <Route path="/*" element={<Registration />} />
+      </Routes>
+    </BrowserRouter>
+    </>
   );
 }
 
