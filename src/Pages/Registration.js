@@ -22,7 +22,7 @@ function Registration() {
 
     const onlyLettersRe = /^[A-Za-z]+$/;
     const emailRe = /^\w+([.-]?\w+)*@\w+([.-]?\w+)*(\.\w{2,3})+$/;
-    const passwordRe = /^(?=.*[a-zA-Z0-9\p{P}\p{S}]).{8,}$/;
+    const passwordRe = /^(?=.[a-zA-Z0-9])(?=.[\W_])[a-zA-Z0-9\W_]{8,}$/;
 
     const handleFirstNameChange = (value) => {
         setFirstName(value)

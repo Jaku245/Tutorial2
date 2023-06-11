@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Tutorial 3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* *Date Created*: 10/06/2023
+* *Last Modification Date*: 10/06/2023
+* *Hosted URL*: [https://capable-valkyrie-b1f7e7.netlify.app/](https://capable-valkyrie-b1f7e7.netlify.app/)
+* *Git URL*: https://git.cs.dal.ca/jaimin/csci-5709-tutorials/-/tree/main/Tutorial3
 
-## Available Scripts
+## Author
 
-In the project directory, you can run:
+Name: Jaimin Desai
 
-### `npm start`
+Banner Id: B00938547
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Email: jm690660@dal.ca 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Deployment
 
-### `npm test`
+Deployment platform name: [Netlify](https://app.netlify.com)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Link to hosted project : [https://capable-valkyrie-b1f7e7.netlify.app/](https://capable-valkyrie-b1f7e7.netlify.app/)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* [npm](https://www.npmjs.com/) - Package manager for node.js
+* [create-react-app](https://create-react-app.dev/) - Tool for creating React applications
+* [nodejs](https://nodejs.org/en) - Runtime used
+* [React.js](https://react.dev/) - The web framework used
+* [react-router-dom](https://reactrouter.com/) - Routing library for React
+* [ant-design](https://ant.design/) - UI library for React applications
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Acknowledgments
+I have already worked with "Ant-Design" and "React-Router-Dom". So, I was aware with use of these two libraries.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### References
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+[1] "Input - Ant Design," Ant Design, [Online]. Available: https://ant.design/components/input. [Accessed: June 9, 2023].
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[2] “Regular expressions - JavaScript | MDN,” May 05, 2023. Available: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions. [Accessed: Jun. 10, 2023].
